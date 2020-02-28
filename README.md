@@ -1,0 +1,2 @@
+# UiPathRoboticProcessAutomation
+Autonomizing  computer tasks such as connecting to the web, typing keywords into search box in search engines and then extracting datatables and writing them into our own datatables and excel files on our computer. Other applications include searching pdf files and extracting text or searching for a particular line by computer vision and sending the data with automated e-mails. Processes can be queued in Orchestrator on web server and run by robots in our computers.
